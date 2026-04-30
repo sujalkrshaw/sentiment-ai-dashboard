@@ -194,7 +194,7 @@ Well-organized project directory structure following industry best practices for
 
 ## 👨‍💻 Author
 
-**Sujal Shaw**
+**Sujal kumar  Shaw**
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
