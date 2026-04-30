@@ -149,18 +149,30 @@ http://localhost:8501
 * Interactive visualization using charts
 
 ---
-
 ## 📸 Screenshots
 
-(Add your screenshots inside the `images/` folder)
-
-Example:
-
-* dashboard.png
-* prediction.png
+### 🔹 Dashboard Interface
+Interactive Streamlit dashboard showing real-time sentiment analysis with user-friendly controls and visual outputs.  
+![Dashboard](images/dashboard.png)
 
 ---
 
+### 🔹 Sentiment Prediction
+Example of single-text input where the model classifies user input into positive, negative, or neutral sentiment.  
+![Prediction](images/prediction.png)
+
+---
+
+### 🔹 Sentiment Distribution Chart
+Visualization of sentiment distribution (positive, negative, neutral) using an interactive pie chart for quick insights.  
+![Chart](images/chart.png)
+
+---
+
+### 🔹 Project Structure
+Well-organized project directory structure following industry best practices for scalability and maintainability.  
+![Structure](images/structure.png)
+---
 ## 📈 Future Enhancements
 
 * 🔥 Integration with Twitter / YouTube API
